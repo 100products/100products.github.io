@@ -1,0 +1,28 @@
+ <!doctype html>
+ <html lang="uk">
+ <head>
+  <title>100 products</title>
+  <link rel="stylesheet
+  h2
+  {color: red}
+  " type="text/css" href="products.css">>
+ </head>
+ <body>
+ <h1>100 продуктів</h1>
+ <ul>
+ <li>навігація</li>
+  <li>категорії товарів</li>
+  <li>акції</li>
+  <li>місцезнаходження</li>
+  <li>контакти</li>
+</ul>
+  <h1>перелік категорій</h1>
+  <ul>
+  	  	<li>соуси</li>
+  	  	<li>крупи</li>
+  	  	<li>олія</li>
+  	  	<li>консерви</li>
+  	  	<li>спеції</li>
+  	  	<li>чай, кава</li>
+  </body>
+ </html>

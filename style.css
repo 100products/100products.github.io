@@ -1,0 +1,46 @@
+h1{color: red}
+.menu> li {
+	color: green;
+}
+
+.main.menu > li {
+	line-height: 1.8;
+	font-size: 18pt;
+	font-weight: bold;}
+img {
+	width: 100px;
+  margin-left: 20px;
+  margin-right: 20px
+}
+.categ.menu> li {
+	line-height: 1.5;
+	font-size: 15pt;
+}
+.main-menu> li.active{
+	font-size: 20pt;
+	color: blue;
+    font-weight: bold;
+}
+.category-menu> li.active{
+	font-size: 20pt;
+	color: blue;
+	font-weight: bold;
+	
+}
+<style>
+ .first-block {
+background color:lightgreen;
+margin-bottom:8px;
+}
+.first-phrase{
+  background color:yellow;
+  margin-bottom:8px;
+}
+.second-block{
+ background color:lightgray; 
+}
+.second-phrase {
+  background color:lightgreen;
+}
+
+</style>
